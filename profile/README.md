@@ -1,7 +1,5 @@
 # Welcome Traveler 👋
 We are SquirtGunSquad We sometimes code but only in bits :)
-# Links
-[Twitter](https://twitter.com/SquirtGunSquad)
 <!--
 
 **Here are some ideas to get you started:**
